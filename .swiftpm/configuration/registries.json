@@ -4,7 +4,7 @@
   },
   "registries" : {
     "[default]" : {
-      "url" : "https://adavalli.jfrog.io/artifactory/api/swift/swift"
+      "url" : "https://adavalli.jfrog.io/artifactory/api/swift/adavalli123"
     }
   },
   "version" : 1
