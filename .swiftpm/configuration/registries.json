@@ -1,0 +1,11 @@
+{
+  "authentication" : {
+
+  },
+  "registries" : {
+    "[default]" : {
+      "url" : "https://adavalli.jfrog.io/artifactory/api/swift/swift"
+    }
+  },
+  "version" : 1
+}
